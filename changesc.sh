@@ -53,11 +53,11 @@ case "$x" in
    3 | 03)
    clear
    read -n 1 -s -r -p "Chat Admin MasWay Store Via Tele ID Tele : @MasWayVpn"
-   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/mymasway/kamunanya/main/setup.sh && chmod +x setup.sh && ./setup.sh
+   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/Rolka111111/kamunanya/main/setup.sh && chmod +x setup.sh && ./setup.sh
    ;;
    4 | 04)
    clear
-   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/myrmasway/xray/main/install.sh && chmod +x install.sh && ./install.sh
+   apt update && apt upgrade -y && wget https://raw.githubusercontent.com/Rolka111111/xray/main/install.sh && chmod +x install.sh && ./install.sh
    ;;
    *)
    xdrg
